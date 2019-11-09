@@ -14,8 +14,10 @@ public class AddTWoArrays {
              sum[i] = sum1[i] + sum2[i];
          }
         System.out.println(Arrays.toString(sum));
+        System.out.println("java is fun");
 
          }
+
 
 
     }
